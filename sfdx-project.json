@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "source-folder",
+            "default": true,
+            "package": "Expense Manager",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "akash123apps",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "46.0",
+    "packageAliases": {
+        "Expense Manager": "0Ho2v000000k9iTCAQ",
+        "Expense Manager@0.1.0-2": "04t2v0000055C4NAAU",
+        "Expense Manager@0.1.0-3": "04t2v0000055QU6AAM"
+    }
+}
